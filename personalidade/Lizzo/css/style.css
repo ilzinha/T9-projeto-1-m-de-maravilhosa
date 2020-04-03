@@ -167,6 +167,7 @@ li {
     text-align: left;
     font-size: 2rem;
     margin: 40px 20px;
+    text-align: center;
 }
 
 .historia__img {
@@ -178,9 +179,14 @@ li {
     align-items: center;
 }
 
+.historia_title {
+    text-align: left;
+}
+
 .historia__text {
     font-size: 2rem;
     margin: 25px 0;
+    text-align: left;
 }
 
 .autora {
